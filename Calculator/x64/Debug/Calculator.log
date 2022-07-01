@@ -1,0 +1,6 @@
+﻿  CalculationsCPP.cpp
+  Calculator.cpp
+C:\CppProjects\Project1\Calculator\Calculator\CalculationsH.h(3,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  RevPolExprCPP.cpp
+  Создание кода...
+  Calculator.vcxproj -> C:\CppProjects\Project1\Calculator\x64\Debug\Calculator.exe
